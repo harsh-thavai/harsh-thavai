@@ -14,7 +14,7 @@ As a data science fresher, I embark on a journey to unravel the boundless possib
 <summary>🔍 ATS Resume LLM App</summary>
 <br>
 
-Harnessing the power of OpenAI APIs, I developed an application that optimizes resumes for Applicant Tracking Systems (ATS), enhancing match rates for job applications and empowering job seekers to stand out from the crowd.
+Harnessing the power of Gemini pro, I developed an application that optimizes resumes for Applicant Tracking Systems (ATS), enhancing match rates for job applications and empowering job seekers to stand out from the crowd.
 
 - **Technologies**: Python, Streamlit, Google Gemini Pro
 - **Demo**: [ATS Resume LLM App](https://atsllm.streamlit.app/)
