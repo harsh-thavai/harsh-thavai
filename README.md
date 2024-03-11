@@ -81,7 +81,7 @@ Diving into the realm of unsupervised learning, this project showcases the power
 ## 📫 Contact
 
 - Email: harshthavai8@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/your-profile](https://www.linkedin.com/in/harsh-thavai-3683301b6/))
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/harsh-thavai-3683301b6/))
 
 ---
 
