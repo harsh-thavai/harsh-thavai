@@ -1,7 +1,7 @@
 # Harsh Thavai
 
 <div align="center">
- <img src="https://github.com/your-repo/images/ai_illustration.png" alt="AI Illustration" width="200"/>
+ <img src="https://wallpapercave.com/wp/wp12481702.jpg" alt="AI Illustration" width="200"/>
 </div>
 
 ## The AI Voyager 🚀 Exploring the Realms of Machine Learning and Generative AI
@@ -46,7 +46,7 @@ Diving into the realm of unsupervised learning, this project showcases the power
 ## 🧠 AI Arsenal
 
 <div align="center">
- <img src="https://github.com/your-repo/images/ai_arsenal.png" alt="AI Arsenal" width="400"/>
+ <img src="https://wallpapercave.com/wp/wp13350171.jpg" alt="AI Arsenal" width="400"/>
 </div>
 
 - **Programming Languages**: Python (NumPy, Pandas), R, SQL
@@ -59,7 +59,7 @@ Diving into the realm of unsupervised learning, this project showcases the power
 ## 🎓 Education
 
 <div align="center">
- <img src="https://github.com/your-repo/images/education.png" alt="Education" width="300"/>
+ <img src="https://wallpapercave.com/wp/wp12320913.jpg" alt="Education" width="300"/>
 </div>
 
 - **Somaiya Vidyavihar University, Mumbai** - Data Science (August 2022 - expected August 2025)
@@ -67,9 +67,6 @@ Diving into the realm of unsupervised learning, this project showcases the power
 
 ## 🏆 Achievements
 
-<div align="center">
- <img src="https://github.com/your-repo/images/achievements.png" alt="Achievements" width="200"/>
-</div>
 
 - **MLH AI Hackfest** - 2nd Runner-Up
  - Project: Daily_doc, Your Virtual Medical Expert - Instant Medical Insights at Your Fingertips
@@ -77,19 +74,11 @@ Diving into the realm of unsupervised learning, this project showcases the power
 
 ## 📜 Certificates
 
-<div align="center">
- <img src="https://github.com/your-repo/images/certificates.png" alt="Certificates" width="200"/>
-</div>
-
 - Machine Learning Fundamentals - [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/298cfca4e5123be9f1d760fd53801ab9dfa754bb?raw=1)
 - Cluster Analysis in Python - [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/cb362e756b8eb6b00497a6c17269b1e3df8792b1)
 - Data Analytics Bootcamp - [FreeCodeCamp](https://drive.google.com/file/d/1Rc2q_AB3-d7Nj6rmaZz-PDxV_POgh1ie/view)
 
 ## 📫 Contact
-
-<div align="center">
- <img src="https://github.com/your-repo/images/contact.png" alt="Contact" width="200"/>
-</div>
 
 - Email: harshthavai8@gmail.com
 - LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/your-profile](https://www.linkedin.com/in/harsh-thavai-3683301b6/))
@@ -97,7 +86,7 @@ Diving into the realm of unsupervised learning, this project showcases the power
 ---
 
 <div align="center">
- <img src="https://github.com/your-repo/images/ai_illustration.png" alt="AI Illustration" width="200"/>
+ <img src="https://wallpapercave.com/wp/wp13350216.png" width="200"/>
 </div>
 
 > Feel free to reach out if you have any questions or collaboration ideas! 🌟
